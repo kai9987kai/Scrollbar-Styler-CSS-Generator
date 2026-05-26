@@ -5,7 +5,6 @@ An advanced custom scrollbar CSS generator for designing modern, polished, and r
 
 CSS Scrollbar Studio lets you customise scrollbar shape, colours, gradients, shadows, hover states, browser-specific rules, preview behaviour, and export-ready code from one clean interface. It is built as a lightweight HTML/CSS/JavaScript web tool with no build step required.
 
-![CSS Scrollbar Studio Preview](preview.png)
 
 ---
 
